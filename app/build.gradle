@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.uts.linus.fragment_kuliner_kita'
+    namespace 'com.ahmfarisi.kulinerkita'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.uts.linus.fragment_kuliner_kita"
+        applicationId "com.ahmfarisi.kulinerkita"
         minSdk 22
         targetSdk 32
         versionCode 1

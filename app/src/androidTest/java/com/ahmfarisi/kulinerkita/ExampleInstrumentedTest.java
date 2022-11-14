@@ -1,4 +1,4 @@
-package com.uts.linus.fragment_kuliner_kita;
+package com.ahmfarisi.kulinerkita;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.uts.linus.fragment_kuliner_kita", appContext.getPackageName());
+        assertEquals("com.ahmfarisi.kulinerkita", appContext.getPackageName());
     }
 }

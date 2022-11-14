@@ -1,4 +1,4 @@
-package com.uts.linus.fragment_kuliner_kita;
+package com.ahmfarisi.kulinerkita;
 
 import android.os.Bundle;
 

@@ -6,12 +6,10 @@
         android:title="Beranda"
         android:icon="@drawable/ic_beranda"/>
 
-
     <item
         android:id="@+id/menu_disukai"
         android:title="Disukai"
-        android:icon="@drawable/ic_disukai"
-        />
+        android:icon="@drawable/ic_disukai"/>
 
     <item
         android:id="@+id/menu_keranjang"
